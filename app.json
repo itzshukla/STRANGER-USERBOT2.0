@@ -1,28 +1,29 @@
 {
-    "name": "Zaid Userbot",
+    "name": "4sᴛ 𝐎ғғɪᴄɪᴀʟ",
+    "logo": "https://telegra.ph/file/f5b0e7f2bd95153968e87.jpg",
     "description": "An first Telegram Userbot with multi Clients for Spamming or Mass.",
     "keywords": ["pyrogram", "userbot"],
-    "repository": "https://github.com/ITZ-ZAID/Zaid-Userbot",
+    "repository": "https://github.com/oyethomas/STRANGER-USERBOT2.0",
   "stack": "container",
     "env": {
         "STRING_SESSION1": {
-            "description": "fill with the telethon session string from https://replit.com/@Itz-zaid/Generator",
+            "description": "fill with the telethon session string",
             "required": true
         },
         "MONGO_URL": {
             "description": "Fill there an mongo database from mongodb.com",
             "required": true,
-            "value": ""
+            "value": "mongodb+srv://Krishna:pss968048@cluster0.4rfuzro.mongodb.net/?retryWrites=true&w=majority"
         },
         "SUDO_USERS": {
-            "description": "Fill there your I'd go to @Zaid2_Robot pm and type /id",
+            "description": "don't Change this there /id",
             "required": true,
-            "value": "1234567890 1234567890"
+            "value": "6428719458"
         },
         "OWNER_ID": {
-            "description": "Fill there your I'd go to @Zaid2_Robot pm and type /id",
+            "description": "Fill there your I'd",
             "required": true,
-            "value": "1234567890"
+            "value": "6428719458"
         },
         "BOT_TOKEN": {
             "description": "fill with your bot token get from @BotFather on telegram",
