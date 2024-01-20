@@ -15,7 +15,7 @@ ALIVE_TEXT = None
 PM_LOGGER = None
 LOG_GROUP = None
 GIT_TOKEN = None #personal access token
-REPO_URL = "https://github.com/oyethomas/oye_USERBOT"
+REPO_URL = "https://github.com/oyethomassir/userbot"
 BRANCH = "master" #don't change
  
 STRING_SESSION1 = ""
