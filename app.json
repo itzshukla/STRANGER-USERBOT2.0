@@ -3,7 +3,7 @@
     "logo": "https://telegra.ph/file/f5b0e7f2bd95153968e87.jpg",
     "description": "An first Telegram Userbot with multi Clients for Spamming or Mass.",
     "keywords": ["pyrogram", "userbot"],
-    "repository": "https://github.com/oyethomas/STRANGER-USERBOT2.0",
+    "repository": "https://github.com/oyethomassir/userbot",
   "stack": "container",
     "env": {
         "STRING_SESSION1": {
