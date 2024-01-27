@@ -62,7 +62,7 @@ async def on_plug_in_cb(_, callback_query: CallbackQuery):
     this_command = f"──「 **Help For {str(modul_name).upper()}** 」──\n\n"
     for x in commands:
         this_command += f"  •  **Command:** `.{str(x)}`\n  •  **Function:** `{str(commands[x])}`\n\n"
-    this_command += "© @I_M_FIGHTER"
+    this_command += "© @SHIVANSH474"
     bttn = [
         [InlineKeyboardButton(text="Return", callback_data="reopen")],
     ]
@@ -90,7 +90,7 @@ async def reopen_in_cb(_, callback_query: CallbackQuery):
 
 
 @app.on_callback_query(filters.regex("helpme_prev\((.+?)\)"))
-@cb_wrapper
+@SHIVANSH474
 async def on_plug_prev_in_cb(_, callback_query: CallbackQuery):
     current_page_number = int(callback_query.matches[0].group(1))
     buttons = paginate_help(current_page_number - 1, CMD_HELP, "helpme")
@@ -102,7 +102,7 @@ async def on_plug_prev_in_cb(_, callback_query: CallbackQuery):
 
 
 @app.on_callback_query(filters.regex("helpme_next\((.+?)\)"))
-@cb_wrapper
+@SHIVANSH474
 async def on_plug_next_in_cb(_, callback_query: CallbackQuery):
     current_page_number = int(callback_query.matches[0].group(1))
     buttons = paginate_help(current_page_number + 1, CMD_HELP, "helpme")
