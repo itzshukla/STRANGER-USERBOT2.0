@@ -1,9 +1,9 @@
 {
-    "name": "4sᴛ 𝐎ғғɪᴄɪᴀʟ",
-    "logo": "https://telegra.ph/file/f5b0e7f2bd95153968e87.jpg",
+    "name": "𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥 𝗨𝗦𝗘𝗥𝗕𝗢𝗧",
+    "logo": "https://graph.org/file/c6a2ed96648fd03377dc9.jpg",
     "description": "An first Telegram Userbot with multi Clients for Spamming or Mass.",
     "keywords": ["pyrogram", "userbot"],
-    "repository": "https://github.com/oyethomassir/userbot",
+    "repository": "https://github.com/itzshukla/STRANGER-USERBOT2.0",
   "stack": "container",
     "env": {
         "STRING_SESSION1": {
@@ -18,12 +18,12 @@
         "SUDO_USERS": {
             "description": "don't Change this there /id",
             "required": true,
-            "value": "6428719458"
+            "value": "6762113050 6919199044"
         },
         "OWNER_ID": {
             "description": "Fill there your I'd",
             "required": true,
-            "value": "6428719458"
+            "value": "6762113050"
         },
         "BOT_TOKEN": {
             "description": "fill with your bot token get from @BotFather on telegram",
