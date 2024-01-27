@@ -24,7 +24,7 @@ else:
         f"├• **ρуяσgяαм**: `{__version__}`\n"
         f"├• **ѕυρρσят**: [Click](t.me/I_M_FIGHTER)\n"
         f"├• **¢нαииєℓ**: [Click](t.me/ll4st_opII)\n"
-        f"└• **яєρσ**: [Click](t.me/ll4st_MIND_GAMERII)"        
+        f"└• **σɯɳҽɾ**: [Click](t.me/ll4st_MIND_GAMERII)"        
     )
 
 @Client.on_message(
