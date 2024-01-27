@@ -392,7 +392,7 @@ async def gajjajay(client: Client, message: Message):
     await asyncio.sleep(0.5)
     await message.edit("UNtIL ")
     await asyncio.sleep(0.2)
-    await message.edit("#_4sᴛ")
+    await message.edit("#_sᴛʀᴀɴɢᴇʀ")
     await asyncio.sleep(0.3)
     await message.edit("ArRivE")
     await asyncio.sleep(0.3)
