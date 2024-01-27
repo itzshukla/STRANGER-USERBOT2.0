@@ -5,11 +5,6 @@
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
 
-## Repo Stats
-
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=ITZ-ZAID&repo=ZAID-USERBOT&theme=dark)
-
-
 ## Requirements 
 
 - PyroGram Session
@@ -40,7 +35,7 @@
 
 ## Deploy To Render 
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/ITZ-ZAID/ZAID-USERBOT)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/STRANGER-USERBOT2.0)
 
 ## Hosting With Mogenius 
 
