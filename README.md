@@ -39,21 +39,7 @@
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/STRANGER-USERBOT2.0)
 
-## Hosting With Mogenius 
 
-I will suggest to host on mogenius if uh don't know what is this then 
-Checkout Tutorial!
-<p align="center"><a href="https://youtu.be/qXT1jl60okk"> <img src="https://img.shields.io/badge/ZaidUserBot%20Deploy-black?style=for-the-badge&logo=youtube" width="220" height="38.45"/></a></p>
-
-```
-
-<h3 align="center">
-   Edit <b>.env</b> with your own values and Run Bot
-</h3>
-
-```console
-Zaid@Debian~ $ screen
-Zaid@Debian~ $ python3 -m Zaid
 ```
 
 ## Disclaimer 
