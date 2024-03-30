@@ -22,7 +22,7 @@ else:
         f"├• **𝐔ᴘᴛɪᴍᴇ**: `{str(datetime.now() - START_TIME).split('.')[0]}`\n"
         f"├• **𝐏ʏᴛʜᴏɴ**: `{python_version()}`\n"
         f"├• **𝐏ʏʀᴏɢʀᴀᴍ**: `{__version__}`\n"
-        f"├• **𝐒ᴜᴘᴘᴏʀᴛ-𝐂ʜᴀᴛ**: [𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥-𝗪𝗢𝗥𝗟𝗗](t.me/mastiwithfriendsx)\n"
+        f"├• **𝐒ᴜᴘᴘᴏʀᴛ-𝐂ʜᴀᴛ**: [𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥-𝗪𝗢𝗥𝗟𝗗](t.me/STRANGERXWORLD)\n"
         f"├• **𝐔ᴘᴅᴀᴛᴇs**: [𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥](t.me/SHIVANSH474)\n"
         f"└• **𝐌ᴀsᴛᴇʀ**: [𝗦𝗛𝗜𝗩𝗔𝗡𝗦𝗛](t.me/SHIVANSH39)"        
     )
