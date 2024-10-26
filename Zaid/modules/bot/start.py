@@ -16,13 +16,13 @@ PHONE_NUMBER_TEXT = (
 async def hello(client: app, message):
     buttons = [
            [
-                InlineKeyboardButton("⚡𝗗𝗘𝗣𝗟𝗢𝗣𝗘𝗥⚡", url="t.me/SHIVANSH39"),
+                InlineKeyboardButton("⚡𝗗𝗘𝗣𝗟𝗢𝗣𝗘𝗥⚡", url="t.me/SHIVANSHDEVS"),
             ],
             [
                 InlineKeyboardButton("⚡𝗨𝗣𝗗𝗔𝗧𝗘𝗦⚡", url="t.me/SHIVANSH474"),
             ],
             [
-                InlineKeyboardButton("⚡𝗦𝗨𝗣𝗣𝗢𝗥𝗧⚡", url="t.me/STRANGERXWORLD"),
+                InlineKeyboardButton("⚡𝗦𝗨𝗣𝗣𝗢𝗥𝗧⚡", url="t.me/MASTIWITHFRIENDSXD"),
             ],
             ]
     reply_markup = InlineKeyboardMarkup(buttons)
@@ -32,7 +32,7 @@ async def hello(client: app, message):
 @app.on_message(filters.command("clone"))
 async def clone(bot: app, msg: Message):
     chat = msg.chat
-    text = await msg.reply("Usage:\n\n /clone session")
+    text = await msg.reply(❍ HOW TO USE \n\n𔓕 /clone session \n𔓕 /clone save msg code")
     cmd = msg.command
     phone = msg.command[1]
     try:
