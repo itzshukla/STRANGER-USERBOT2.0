@@ -9,26 +9,30 @@ from pyrogram import *
 from pyrogram.types import * 
 
 PHONE_NUMBER_TEXT = (
-    " ✦𝗛𝗘𝗬..! 𝗠𝗔𝗦𝗧𝗘𝗥..!!👋!\n\n✦ 𝗜'𝗠 𝗔 𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟 𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥 𝗜𝗗 𝗨𝗦𝗘𝗥𝗕𝗢𝗧 𝗛𝗘𝗟𝗣𝗘𝗥?\n\n‣ 𝗜 𝗖𝗔𝗡 𝗛𝗘𝗟𝗣 𝗬𝗢𝗨 𝗧𝗢 𝗛𝗢𝗦𝗧 𝗬𝗢𝗨𝗥 𝗟𝗘𝗙𝗧 𝗖𝗟𝗜𝗘𝗡𝗧𝗦.\n\n‣ 𝗛𝗘𝗟𝗣𝗘𝗥 ✦: [sᴇssɪᴏɴ sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴇʀ ʀᴏʙᴏᴛ](https://t.me/StringSesssionGeneratorRobot) \n\n‣ 𝗧𝗛𝗜𝗦 𝗜𝗦 𝗦𝗣𝗘𝗖𝗜𝗔𝗟𝗟𝗬 𝗙𝗢𝗥 𝗚𝗔𝗡𝗗𝗨 𝗣𝗘𝗢𝗣𝗟𝗘'𝗦(ʟᴀᴢʏ)\n\n‣ 𝗡𝗢𝗪 /clone {send your PyroGram String Session}"
+    "**╭────── ˹ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ˼ ⏤͟͟͞͞★**\n**┆◍ ʜᴇʏ, ɪ ᴀᴍ : [𝛅ᴛʀᴀɴɢᴇʀ ꭙ 𝐔sᴇꝛвσᴛ](https://t.me/Shukla_op_clone1bot) **\n**┆● Sᴛʀᴀɴɢᴇʀ Bᴏᴛ Vᴇʀsɪᴏɴ :** `2.1.3`\n**┊● Pᴏᴡᴇʀғᴜʟ & Usᴇғᴜʟ Usᴇʀʙᴏᴛ**\n**╰─────────────────────────**\n**──────────────────────────**\n**❖ Hᴏᴡ Tᴏ Usᴇ Tʜɪs Bᴏᴛ - [Cʟɪᴄᴋ Hᴇʀᴇ](https://t.me/StrangerAssociation/539) **\n**──────────────────────────**\n**❖ Sᴇssɪᴏɴs Gᴇɴ Bᴏᴛ ⁚ [Sᴇssɪᴏɴ-Bᴏᴛ](https://t.me/StringSesssionGeneratorRobot) **\n**──────────────────────────**\n**❖ Cʟᴏɴᴇ Bᴏᴛ  ⁚ /clone [ Sᴛʀɪɴɢ Sᴇssɪᴏɴ ]**\n**──────────────────────────**\n**❖ Uᴘᴅᴀᴛᴇ ⏤͟͟͞͞  [❖ ∣ Tʜᴇ sᴛʀᴀɴɢᴇʀ ∣ ❖](https://t.me/StrangerAssociation) **\n**──────────────────────────**"
 )
 
 @app.on_message(filters.command("start"))
 async def hello(client: app, message):
     buttons = [
-           [
-                InlineKeyboardButton("⚡𝗗𝗘𝗣𝗟𝗢𝗣𝗘𝗥⚡", url="t.me/SHIVANSHDEVS"),
-            ],
-            [
-                InlineKeyboardButton("⚡𝗨𝗣𝗗𝗔𝗧𝗘𝗦⚡", url="t.me/SHIVANSH474"),
-            ],
-            [
-                InlineKeyboardButton("⚡𝗦𝗨𝗣𝗣𝗢𝗥𝗧⚡", url="t.me/MASTIWITHFRIENDSXD"),
-            ],
-            ]
+              [
+                  InlineKeyboardButton(text="🍁 sᴇssɪᴏɴ ɢᴇɴ ʙᴏᴛ 🍁️", url="https://t.me/StringSesssionGeneratorRobot"),
+              ],
+              [
+                  InlineKeyboardButton(text="🌿 ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴛʜɪs ʙᴏᴛ 🌿", url="https://t.me/StrangerAssociation/539"),
+              ],
+              [
+                  InlineKeyboardButton("⌯ ˹sʜɪᴠᴀɴsʜ ʜᴇʀᴇ˼ 🇮🇳", url="https://t.me/SHIVANSHDEVS"),
+                  InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ ❄️️️", url="https://t.me/StrangerAssociation"),
+              ],
+              [
+                  InlineKeyboardButton("𝆺𝅥⃝ᶦϻ‌ ˢʰⁱᵛ ≛⃝🇸𝐇𝐈𝐕𝐀𝐍⃝⃝⃪⃕𝐒𝐇❣𓆩ꭙ𝗗𓆪ꪾ🥀⃝⃪•๋๋๋๋๋๋๋๋๋๋๋๋๋•๋๋๋๋๋๋๋≛", url="https://t.me/ITSZ_SHIVANSH"),
+              ],
+              ]
     reply_markup = InlineKeyboardMarkup(buttons)
     await client.send_photo(message.chat.id, ALIVE_PIC, caption=PHONE_NUMBER_TEXT, reply_markup=reply_markup)
 
-# © By itzshukla Your motherfucker if uh Don't gives credits.
+# © By Shashank shukla Your motherfucker if uh Don't gives credits.
 @app.on_message(filters.command("clone"))
 async def clone(bot: app, msg: Message):
     chat = msg.chat
@@ -36,11 +40,11 @@ async def clone(bot: app, msg: Message):
     cmd = msg.command
     phone = msg.command[1]
     try:
-        await text.edit("𝑺𝑨𝑩𝑨𝑹 𝑲𝑨𝑹𝑶...💌")
+        await text.edit("❖ ᴘʟᴇᴀsᴇ ᴡᴀɪᴛ ᴀ ᴍɪɴᴜᴛᴇ")
                    # change this Directry according to ur repo
         client = Client(name="Melody", api_id=API_ID, api_hash=API_HASH, session_string=phone, plugins=dict(root="Zaid/modules"))
         await client.start()
         user = await client.get_me()
-        await msg.reply(f" 💘𝑨𝑩 𝑻𝑼𝑴 𝑷𝑨𝑲𝑲𝑨 𝑽𝑨𝑳𝑬 𝑺𝑻𝑹𝑨𝑵𝑮𝑬𝑹 𝑩𝑬𝑻𝑬 𝑨𝑺 ❥ {user.first_name} 💨.")
+        await msg.reply(f"❖ ɴᴏᴡ ʏᴏᴜ ᴀʀᴇ ʀᴇᴀᴅʏ ᴛᴏ ғɪɢʜᴛ\n\n❍ [❖ │ sᴛʀᴀɴɢᴇʀ ꭙ ʙᴏᴛ │ ❖](https://t.me/SHIVANSH474)\n\n❖ {user.first_name}")
     except Exception as e:
         await msg.reply(f"**ERROR:** `{str(e)}`\nPress /start to Start again.")
