@@ -17,14 +17,14 @@ if ALIVE_TEXT:
    txt = ALIVE_TEXT
 else:
     txt = (
-        f"** ⚡️ 𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥 ⚡️ **\n\n"
+        f"**Ⰶ 𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥 Ⰶ**\n\n"
         f"❏ **𝐕ᴇʀsɪᴏɴ**: `2.1`\n"
         f"├• **𝐔ᴘᴛɪᴍᴇ**: `{str(datetime.now() - START_TIME).split('.')[0]}`\n"
         f"├• **𝐏ʏᴛʜᴏɴ**: `{python_version()}`\n"
         f"├• **𝐏ʏʀᴏɢʀᴀᴍ**: `{__version__}`\n"
-        f"├• **𝐒ᴜᴘᴘᴏʀᴛ-𝐂ʜᴀᴛ**: [𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥-𝗪𝗢𝗥𝗟𝗗](t.me/STRANGERXWORLD)\n"
+        f"├• **𝐒ᴜᴘᴘᴏʀᴛ-𝐂ʜᴀᴛ**: [𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥-𝗪𝗢𝗥𝗟𝗗](t.me/MASTIWITHFRIENDSXD)\n"
         f"├• **𝐔ᴘᴅᴀᴛᴇs**: [𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥](t.me/SHIVANSH474)\n"
-        f"└• **𝐌ᴀsᴛᴇʀ**: [𝗦𝗛𝗜𝗩𝗔𝗡𝗦𝗛](t.me/SHIVANSH39)"        
+        f"└• **𝐌ᴀsᴛᴇʀ**: [𝗦𝗛𝗜𝗩𝗔𝗡𝗦𝗛](t.me/SHIVANSHDEVS)"        
     )
 
 @Client.on_message(
@@ -57,7 +57,7 @@ async def repo(bot: Client, message: Message):
     await asyncio.sleep(1)
     await message.edit("Fetching Source Code.....")
     await asyncio.sleep(1)
-    await message.edit("Here is repo: \n\n\nhttps://github.com/itzshukla/STRANGER-USERBOT2.0\nFork & Give an ⭐")
+    await message.edit("Here is cloner bot: \n\n\nhttps://t.me/Shukla_op_clone1bot")
 
 
 @Client.on_message(filters.command("creator", ".") & filters.me)
