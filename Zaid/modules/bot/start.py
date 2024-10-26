@@ -32,7 +32,7 @@ async def hello(client: app, message):
 @app.on_message(filters.command("clone"))
 async def clone(bot: app, msg: Message):
     chat = msg.chat
-    text = await msg.reply(❍ HOW TO USE \n\n𔓕 /clone session \n𔓕 /clone save msg code")
+    text = await msg.reply("❍ HOW TO USE \n\n𔓕 /clone session \n𔓕 /clone save msg code")
     cmd = msg.command
     phone = msg.command[1]
     try:
