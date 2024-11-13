@@ -4,6 +4,7 @@ from io import BytesIO
 from pyrogram import Client, filters
 from pyrogram.types import Message
 
+from Zaid import aiosession
 
 from Zaid.helper.PyroHelpers import ReplyCheck
 
