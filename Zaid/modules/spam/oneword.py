@@ -7,7 +7,8 @@ from pyrogram.types import Message
 from pyrogram import filters, Client
 
 # import 
-
+from Zaid import SUDO_USER 
+from Zaid.database.data import RAID, PBIRAID, OneWord, HIRAID, PORM, EMOJI, GROUP, VERIFIED_USERS
 
 
 
