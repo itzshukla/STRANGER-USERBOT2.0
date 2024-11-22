@@ -1,6 +1,6 @@
 <p align="center">⚡️𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥-𝗨𝗦𝗘𝗥𝗕𝗢𝗧⚡️</p>
 
-<img src="https://graph.org/file/c6a2ed96648fd03377dc9.jpg">
+<img src="https://files.catbox.moe/uufiry.jpg">
 
 <p align="center">⚡️𝗔 𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟 𝗜𝗗 𝗨𝗦𝗘𝗥𝗕𝗢𝗧⚡️</p>
 
